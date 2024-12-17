@@ -1,0 +1,7 @@
+pandas
+numpy
+minio
+pyspark==3.5.0
+loguru
+python-dotenv==0.21.0
+requests==2.26.0
