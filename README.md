@@ -13,4 +13,5 @@ docker compose build
 docker-compose up -d
 
 FastAPI запускаем вручную через сваггер. Для примера можно использовать id 897
+
 Airflow даг инициируем вручную.
