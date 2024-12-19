@@ -2,6 +2,7 @@
 
 В корень проекта необходимо добавить .env с параметрами вида:
 
+AIRFLOW_UID=1114266
 MINIO_ACCESS_KEY="minioaccesskey"
 MINIO_SECRET_KEY="miniosecretkey"
 BUCKET_NAME="movielens2"
